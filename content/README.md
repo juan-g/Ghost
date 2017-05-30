@@ -4,8 +4,6 @@
 
 # How to Translate Ghost Into Any Language
 
-* * *
-
 <a title="By The World Flag [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 4.0-3.0-2.5-2.0-1.0 (http://creativecommons.org/licenses/by-sa/4.0-3.0-2.5-2.0-1.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AThe_world_flag_2006.svg"><img width="512" alt="The world flag 2006" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/The_world_flag_2006.svg/512px-The_world_flag_2006.svg.png" align="right" style="margin: 0px 0px 20px 20px" /></a>
 
 **Ghost 1.0 opens to the whole world!**
@@ -18,8 +16,8 @@ And it's as easy as writing, using only English and any other language you wish.
 - [How to Add Any Language](#how-to-add-any-language)
 - [How to Make Any Theme Translatable](#how-to-make-any-theme-translatable)
 - [Optional Advanced Features](#optional-advanced-features)
-- [What's Coming Next](#what's-coming-next)
-- [Copyright & License](#copyright-&-license)
+- [What's Coming Next](#whats-coming-next)
+- [Copyright & License](#copyright--license)
 
 ## Quick Start
 
