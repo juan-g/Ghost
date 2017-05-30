@@ -1,7 +1,5 @@
 <a href="https://github.com/TryGhost/Ghost"><img src="https://cloud.githubusercontent.com/assets/120485/18661790/cf942eda-7f17-11e6-9eb6-9c65bfc2abd8.png" alt="Ghost" /></a>
 
-* * *
-
 # How to Translate Ghost Into Any Language
 
 <a title="By The World Flag [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 4.0-3.0-2.5-2.0-1.0 (http://creativecommons.org/licenses/by-sa/4.0-3.0-2.5-2.0-1.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AThe_world_flag_2006.svg"><img width="512" alt="The world flag 2006" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/The_world_flag_2006.svg/512px-The_world_flag_2006.svg.png" align="right" style="margin: 0px 0px 20px 20px" /></a>
